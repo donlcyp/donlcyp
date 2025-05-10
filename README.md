@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm Cyprus, a IT Student passionate about Web deve
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=donlcyp&show_icons=true&theme=radical)
 
 ## Fun Fact
-I like Iced Matcha latte and anything coffee
-Addicted to Monster Hunter & Dark soul
-I dont like mango<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nauseated%20Face.png" alt="Nauseated Face" width="25" height="25" />
+- I like Iced Matcha latte and anything coffee
+- Addicted to Monster Hunter & Dark soul
+- I dont like mango<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nauseated%20Face.png" alt="Nauseated Face" width="25" height="25" />
 
 ## Contact
 Feel free to reach out for collaborations or questions!
