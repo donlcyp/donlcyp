@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Cyprus, a IT Student passionate about Web deve
 
 ## Fun Fact
 - I like Iced Matcha latte and anything coffee
-- Addicted to Monster Hunter & Dark soul
+- active tiktok and Ig repost
 - I dont like mango<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nauseated%20Face.png" alt="Nauseated Face" width="25" height="25" />
 
 ## Contact
