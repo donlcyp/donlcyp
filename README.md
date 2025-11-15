@@ -15,9 +15,19 @@ Welcome to my GitHub profile! I'm **Cyprus**, an IT student passionate about **W
 ---
 
 ## 🛠 Skills
-- **Programming Languages:** Python, Java, HTML  
-- **Currently Learning:** C++  
-- **Tech Interests:** Web Development, UI/UX, Automation
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Currently Learning
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Tech Interests
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
