@@ -32,13 +32,13 @@ Welcome to my GitHub profile! I'm **Cyprus**, an IT student passionate about **W
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donlcyp&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=donlcyp&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=donlcyp&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donlcyp&theme=radical)
 
 ### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donlcyp&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=donlcyp&layout=compact&theme=radical)
 
 ---
 
